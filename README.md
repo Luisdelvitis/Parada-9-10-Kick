@@ -25,7 +25,7 @@ a cima representa o processo intermediário entre a definicão do wireframe e o 
 
 ![Paleta](https://github.com/Luisdelvitis/Parada-9-10-Kick/blob/main/images/Paleta.png).
 
-a cima representa a paleta escolhida utilizada no site.
+a cima representa a paleta escolhida utilizada no site
 
 ## Telas
 
