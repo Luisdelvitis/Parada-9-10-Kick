@@ -23,6 +23,10 @@ Com o wireframe aprovado, passamos para a próxima etapa do design: a criação 
 
 a cima representa o processo intermediário entre a definicão do wireframe e o começo da criação das telas
 
+![Paleta](https://github.com/Luisdelvitis/Parada-9-10-Kick/blob/main/images/Paleta.png).
+
+a cima representa a paleta escolhida utilizada no site.
+
 ## Telas
 
 Depois de finalizar o protótipo, começamos a criar as telas individuais do site. Aqui estão as primeiras três telas que criamos:
